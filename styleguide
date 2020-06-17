@@ -1,7 +1,7 @@
 This is a Styleguide dummy for demonstration
 
 Line Length / CPL
-Use a max CPL of 120
+Use a max CPL of 100
 
 Naming Convention
-Name Variables in the hungarian notation
+Use snake_case
