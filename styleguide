@@ -1,5 +1,7 @@
-line1 source edit line1
-line2
-line3
+This is a Styleguide dummy for demonstration
 
-line5 source edit line 5
+Line Length / CPL
+Use a max CPL of 120
+
+Naming Convention
+Name Variables in the hungarian notation
